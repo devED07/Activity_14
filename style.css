@@ -15,6 +15,7 @@ span {
 footer {
     text-align: right;
     clear: both;
+     color: midnightblue;
 }
 
 .left {
@@ -63,4 +64,5 @@ footer {
     display: inline;
     object-fit: cover;
   }
+
 }
